@@ -27,7 +27,7 @@ void configLEDs(char inbits);
 void drawNotes();
 void playNote(int pitch, int time, int octave);
 
-//eclipse push
+//eclipse pushing p
 
 /////////////////////////////////////////////////////////
 void lose();
