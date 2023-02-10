@@ -27,7 +27,7 @@ void configLEDs(char inbits);
 void drawNotes();
 void playNote(int pitch, int time, int octave);
 
-//added git successfully
+//eclipse push
 
 /////////////////////////////////////////////////////////
 void lose();
